@@ -7,13 +7,13 @@ A [React.js]() bookshelf app that allows you to select and categorize books you 
 1. To install the application clone this git repository
 
 ```
-$ git clone https://github.com/tsega/udacity-reactnd-project-myreads.git myreads
+$ https://github.com/Abdoulrhman/Project-6.git
 ```
 
 2. Go into the application folder
 
 ```
-$ cd myreads
+$ cd Project-6
 ```
 
 3. Install dependencies using`npm` command line tool
